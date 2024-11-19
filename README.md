@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Dawit Yenew! 👋  
 🌟 **Software Developer | Tech Enthusiast | Problem Solver**  
 
 🚀 Passionate about building innovative solutions and growing through challenges!
