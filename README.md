@@ -20,7 +20,7 @@
 
 I’m always open to networking, collaborating on exciting projects, or just sharing knowledge. Let’s build something amazing together!  
 - 🌐 [Portfolio](portfolio-orpin-six-11.vercel.app)  
-- 💼 [LinkedIn]([[link-to-linkedin-profile](https://www.linkedin.com/in/dawityenew/)]))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dawityenew/)  
 - 📫 [Email](mailto:dawityenew.12@gmail.com) 
 
 
