@@ -2,14 +2,14 @@
 
 🌟 **Software Developer | Tech Enthusiast | Problem Solver**
 
-🚀 Passionate about building innovative solutions and growing through real-world challenges.
+🚀 Passionate about building scalable, reliable systems and growing through real-world challenges.
 
 ---
 
 ## 🌟 About Me
 
 - 🔭 Currently working on personal projects  
-- 💬 Ask me about **web development, backend systems, and software design**  
+- 💬 Ask me about **backend development, distributed systems, and cloud-native tooling**  
 - 📫 Reach me at: **dawityenew.12@gmail.com**
 
 ---
@@ -28,6 +28,16 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+### ☁️ DevOps & Cloud-Native
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Apache APISIX](https://img.shields.io/badge/-Apache%20APISIX-333333?style=flat&logo=apache)
+
+### 🔌 APIs & Architecture
+- RESTful APIs  
+- API Gateway & Traffic Management (Apache APISIX)  
+- Microservices Architecture  
 
 ---
 
