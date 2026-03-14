@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working at !(https://aii.et/)
+- 🔭 Currently working at ![EAII](https://aii.et/)
 - 💬 Ask me about **backend development, distributed systems, and cloud-native tooling**  
 - 📫 Reach me at: **dawityenew.12@gmail.com**
 
